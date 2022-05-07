@@ -10,7 +10,7 @@ import org.junit.rules.ExpectedException;
  * @version 1.0
  */
 
-public class ContinousSequenceSum 
+public class ContinuousSequenceSum 
 {
     @Test
     public void testSum()
